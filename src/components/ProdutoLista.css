@@ -1,0 +1,9 @@
+.titulo{
+    text-align: center;
+    color: red;
+}
+
+.produtoLista{
+    display: flex;
+    justify-content: center;
+}
